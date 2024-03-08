@@ -1,0 +1,34 @@
+@font-face {
+  font-family: des;
+  src: url(./IRANSansWeb_Light.ttf);
+}
+@font-face {
+  font-family: title;
+  src: url(./Bogart-Black-trial.ttf);
+}
+.totall{
+  background-image: linear-gradient(
+    180deg,
+    rgb(16, 16, 17) 0%,
+    rgba(37, 35, 35, 0.822) 100%
+  ) !important;
+  
+}
+.showproject {
+  font-family: des;
+}
+.explain {
+  display: none;
+}
+.title {
+  font-family: title;
+}
+.explain {
+  font-family: des;
+}
+.product:hover > .explain {
+  display: block;
+}
+.product:hover > .image > .pic {
+  mix-blend-mode: multiply;
+}

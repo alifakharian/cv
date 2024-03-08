@@ -1,0 +1,26 @@
+@font-face {
+  font-family: name;
+  src: url(./Lalezar-Regular.ttf);
+}
+.total{
+    background-image: linear-gradient(
+        180deg,
+        rgb(16, 16, 17) 0%,
+        rgba(37, 35, 35, 0.822) 100%
+      ) !important;
+}
+/* @font-face {
+  font-family: des;
+  src: url(./IRANSansWeb_Light.ttf);
+} */
+@font-face {
+  font-family: nf;
+  src: url(./IRANSansXFaNum-Medium.ttf);
+}
+.contact {
+  font-family: name;
+}
+.list {
+  /* font-family: des; */
+  font-family: nf;
+}

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: nav;
+  src: url("./DiodrumArabic-Bold.ttf");
+}
+
+.nav {
+  /* background-color: rgb(18, 38, 140) !important; */
+  font-family: nav;
+}
+
