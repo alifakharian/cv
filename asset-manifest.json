@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.3ab94278.css",
+    "main.js": "/cv/static/js/main.7013a171.js",
+    "static/media/2.png": "/cv/static/media/2.0fe68beffa55414191a4.png",
+    "static/media/6.png": "/cv/static/media/6.8ea2f887f5fe591921e5.png",
+    "static/media/8.png": "/cv/static/media/8.8e19ea653ae2f23341bb.png",
+    "static/media/9.png": "/cv/static/media/9.f61fcd8dc74d1ada45b9.png",
+    "static/media/Bogart-Black-trial.ttf": "/cv/static/media/Bogart-Black-trial.d446d8460c4f179a064e.ttf",
+    "static/media/Lalezar-Regular.ttf": "/cv/static/media/Lalezar-Regular.241ca811c53de4ed36a4.ttf",
+    "static/media/5.png": "/cv/static/media/5.33d4c594ee457211de27.png",
+    "static/media/DiodrumArabic-Bold.ttf": "/cv/static/media/DiodrumArabic-Bold.e594aa7011ad13864dcd.ttf",
+    "static/media/IRANSansXFaNum-Medium.ttf": "/cv/static/media/IRANSansXFaNum-Medium.1084402b5f9df646940c.ttf",
+    "static/media/IRANSansWeb_Light.ttf": "/cv/static/media/IRANSansWeb_Light.2b64937900326fc69f94.ttf",
+    "static/media/1.png": "/cv/static/media/1.078e87949295cbfcf610.png",
+    "static/media/4.png": "/cv/static/media/4.51212728b1ddb3e119f5.png",
+    "static/media/2.jpg": "/cv/static/media/2.c0afbb83dc3f53b56749.jpg",
+    "static/media/7.png": "/cv/static/media/7.fd10aec41158bf9aeaba.png",
+    "static/media/3.png": "/cv/static/media/3.60ba5afe525bdce7c3da.png",
+    "index.html": "/cv/index.html",
+    "main.3ab94278.css.map": "/cv/static/css/main.3ab94278.css.map",
+    "main.7013a171.js.map": "/cv/static/js/main.7013a171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab94278.css",
+    "static/js/main.7013a171.js"
+  ]
+}
