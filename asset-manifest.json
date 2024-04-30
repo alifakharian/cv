@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.0f062565.css",
-    "main.js": "/cv/static/js/main.dc29ddfb.js",
+    "main.js": "/cv/static/js/main.184713c6.js",
     "static/media/12.png": "/cv/static/media/12.534e46a41d931c91b523.png",
-    "static/media/10.png": "/cv/static/media/10.f536861f4a0d61f74167.png",
     "static/media/2.png": "/cv/static/media/2.0fe68beffa55414191a4.png",
     "static/media/11.png": "/cv/static/media/11.c2f128c159f902d0b4f2.png",
     "static/media/6.png": "/cv/static/media/6.8ea2f887f5fe591921e5.png",
     "static/media/8.png": "/cv/static/media/8.8e19ea653ae2f23341bb.png",
+    "static/media/13.png": "/cv/static/media/13.4ada9854c620bb71499c.png",
     "static/media/9.png": "/cv/static/media/9.f61fcd8dc74d1ada45b9.png",
     "static/media/Bogart-Black-trial.ttf": "/cv/static/media/Bogart-Black-trial.d446d8460c4f179a064e.ttf",
     "static/media/Lalezar-Regular.ttf": "/cv/static/media/Lalezar-Regular.241ca811c53de4ed36a4.ttf",
@@ -24,10 +24,10 @@
     "static/media/3.png": "/cv/static/media/3.60ba5afe525bdce7c3da.png",
     "index.html": "/cv/index.html",
     "main.0f062565.css.map": "/cv/static/css/main.0f062565.css.map",
-    "main.dc29ddfb.js.map": "/cv/static/js/main.dc29ddfb.js.map"
+    "main.184713c6.js.map": "/cv/static/js/main.184713c6.js.map"
   },
   "entrypoints": [
     "static/css/main.0f062565.css",
-    "static/js/main.dc29ddfb.js"
+    "static/js/main.184713c6.js"
   ]
 }
