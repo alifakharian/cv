@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.0f062565.css",
-    "main.js": "/cv/static/js/main.184713c6.js",
-    "static/media/12.png": "/cv/static/media/12.534e46a41d931c91b523.png",
+    "main.css": "/cv/static/css/main.4e482cec.css",
+    "main.js": "/cv/static/js/main.bafe9891.js",
     "static/media/2.png": "/cv/static/media/2.0fe68beffa55414191a4.png",
+    "static/media/14.png": "/cv/static/media/14.b970a5da6d0be7a6acfd.png",
     "static/media/11.png": "/cv/static/media/11.c2f128c159f902d0b4f2.png",
-    "static/media/6.png": "/cv/static/media/6.8ea2f887f5fe591921e5.png",
-    "static/media/8.png": "/cv/static/media/8.8e19ea653ae2f23341bb.png",
     "static/media/13.png": "/cv/static/media/13.4ada9854c620bb71499c.png",
     "static/media/9.png": "/cv/static/media/9.f61fcd8dc74d1ada45b9.png",
     "static/media/Bogart-Black-trial.ttf": "/cv/static/media/Bogart-Black-trial.d446d8460c4f179a064e.ttf",
@@ -17,17 +15,15 @@
     "static/media/1.jpg": "/cv/static/media/1.d4bd0115120830035787.jpg",
     "static/media/3.jpg": "/cv/static/media/3.c9b18d52d17b1ab49ec9.jpg",
     "static/media/IRANSansWeb_Light.ttf": "/cv/static/media/IRANSansWeb_Light.2b64937900326fc69f94.ttf",
-    "static/media/4.png": "/cv/static/media/4.51212728b1ddb3e119f5.png",
     "static/media/2.jpg": "/cv/static/media/2.c0afbb83dc3f53b56749.jpg",
     "static/media/4.jpg": "/cv/static/media/4.4a2954a8c3cc55468343.jpg",
     "static/media/7.png": "/cv/static/media/7.fd10aec41158bf9aeaba.png",
-    "static/media/3.png": "/cv/static/media/3.60ba5afe525bdce7c3da.png",
     "index.html": "/cv/index.html",
-    "main.0f062565.css.map": "/cv/static/css/main.0f062565.css.map",
-    "main.184713c6.js.map": "/cv/static/js/main.184713c6.js.map"
+    "main.4e482cec.css.map": "/cv/static/css/main.4e482cec.css.map",
+    "main.bafe9891.js.map": "/cv/static/js/main.bafe9891.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f062565.css",
-    "static/js/main.184713c6.js"
+    "static/css/main.4e482cec.css",
+    "static/js/main.bafe9891.js"
   ]
 }
