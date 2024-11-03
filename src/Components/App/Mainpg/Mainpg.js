@@ -3,9 +3,9 @@ import mainpg from "./Mainpg.module.css";
 
 const Mainpg = () => {
   return (
-    <div className="text-white bg-gray-950 py-[8.5px]">
+    <div className={`text-white ${mainpg.main} min-h-screen`}>
       <div
-        className={`container flex flex-wrap justify-around w-full rounded-t-3xl   ${mainpg.introduction}`}
+        className={`container flex flex-wrap justify-around`}
         dir="rtl"
       >
         <div className="lg:w-[20%]">
@@ -27,7 +27,7 @@ const Mainpg = () => {
       </div>
       {/* lorem */}
       <div
-        className={`container flex pr-10 flex-wrap justify-around w-full  rounded-b-3xl mt-5   ${mainpg.introduction}`}
+        className={`container flex pr-10 flex-wrap justify-around  mt-5`}
         dir="rtl"
       >
         <div className={`lg:w-[50%] `}>
@@ -50,7 +50,7 @@ const Mainpg = () => {
         </div>
         <div className={`lg:w-[50%] flex flex-wrap  justify-evenly `}>
           <div
-            className={`md:w-[25%] gap-y-[30px] mt-6 bg-teal-  flex flex-col flex-wrap ${mainpg.information}`}
+            className={`md:w-[25%] gap-y-[30px] mt-6   flex flex-col flex-wrap ${mainpg.information}`}
           >
             <p>سن :</p>
             <p>محل سکونت : </p>

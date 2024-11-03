@@ -6,7 +6,7 @@ const Nav = () => {
     <div className="">
    
       <nav
-        className={`flex items-center justify-between flex-wrap bg-gray-950   ${nav.nav} `}
+        className={`flex items-center justify-between flex-wrap bg-[#000002]   ${nav.nav} `}
         dir="rtl"
       >
         <div className="w-full block  justify-center flex-grow lg:flex lg:items-center lg:w-auto">

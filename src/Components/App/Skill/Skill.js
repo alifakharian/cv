@@ -4,20 +4,22 @@ import skill from "./Skill.module.css";
 const Skill = () => {
   const [html] = useState(80);
   const [js] = useState(50);
-  const [react] = useState(30);
+  const [react] = useState(40);
   const [bootstrap] = useState(70);
   const [tailwind] = useState(60);
   const [materialui] = useState(70);
-  const [api] = useState(30);
+  const [api] = useState(35);
 
   return (
     <>
-      <div className="text-white bg-gray-950 py-[93.4px]">
+      <div
+        className={`text-white mx-auto px-[10px] ${skill.main}  min-h-screen`}
+      >
         <div
-          className={`flex flex-wrap justify-center gap-[20px] py-3 mx-[20px] rounded-2xl  ${skill.total} `}
+          className={`flex flex-wrap justify-center py-[15.21vh] gap-[20px] mx-[20px]  ${skill.total} `}
           dir="rtl"
         >
-          <div className="lg:w-[40%] bg-red-">
+          <div className="lg:w-[40%]">
             <p className={`text-[30px] mt-3 mr-4 ${skill.contact}`}>
               مهارت های <span className="text-gray-600">من</span>
             </p>
@@ -30,7 +32,7 @@ const Skill = () => {
             </div>
           </div>
           <div
-            className={`lg:w-[55%] bg-yellow-  flex flex-wrap flex-col gap-y-[10px] font-extrabold ${skill.list}`}
+            className={`lg:w-[55%] flex flex-wrap flex-col gap-y-[10px] font-extrabold ${skill.list}`}
           >
             <div>
               <div className="flex flex-wrap justify-between ml-4 mt-3">
