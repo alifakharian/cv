@@ -8,6 +8,39 @@ const Sample = () => {
         className={`flex flex-wrap justify-evenly py-[10px] gap-y-[50px] px-[2px]  rounded-3xl mx-[10px] ${sample.totall}`}
         dir="rtl"
       >
+         <div
+          className={` hover:border-gray-800 relative hover:scale-105 border-4 border-gray-400 duration-700 rounded-xl ${sample.product}`}
+        >
+          <p
+            className={` absolute z-50 text-white text-center  top-[35px] leading-[25px] font-bold  text-[12px] px-3 ${sample.explain}`}
+          >
+            مشابه پروژه Digiland می باشد که سبد خرید به آن اضافه شده است
+          </p>
+
+          <div className={`bg-zinc-800 ${sample.image}`}>
+            <img
+              src={require("./img/15.png")}
+              className={`rounded-t-lg w-[300px] ${sample.pic}`}
+            />
+          </div>
+          <p
+            className={`text-center tracking-[1px]    mt-1 font-bold ${sample.title}`}
+          >
+            Digilandpluse
+          </p>
+          <button className="bg-gray-300 text-[12px] mx-auto block my-3  hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded  items-center">
+            <span>
+              <Link
+                className={`${sample.showproject} text-[12px]`}
+                to="https://alifakharian.github.io/digilandpluse"
+                
+                target="_blank"
+              >
+                نمایش پروژه
+              </Link>
+            </span>
+          </button>
+        </div>
         <div
           className={` hover:border-gray-800 relative hover:scale-105 border-4 border-gray-400 duration-700 rounded-xl ${sample.product}`}
         >
