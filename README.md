@@ -1,2 +1,2 @@
-مهارت ها و نونه کارا من
+مهارت ها و نونه کارهای من
 https://alifakharian.github.io/cv/
